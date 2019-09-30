@@ -1,0 +1,14 @@
+C:\Ostruks\Singleton\FibonacciConsole\bin\Debug\netcoreapp2.1\FibonacciConsole.deps.json
+C:\Ostruks\Singleton\FibonacciConsole\bin\Debug\netcoreapp2.1\FibonacciConsole.runtimeconfig.json
+C:\Ostruks\Singleton\FibonacciConsole\bin\Debug\netcoreapp2.1\FibonacciConsole.runtimeconfig.dev.json
+C:\Ostruks\Singleton\FibonacciConsole\bin\Debug\netcoreapp2.1\FibonacciConsole.dll
+C:\Ostruks\Singleton\FibonacciConsole\bin\Debug\netcoreapp2.1\FibonacciConsole.pdb
+C:\Ostruks\Singleton\FibonacciConsole\bin\Debug\netcoreapp2.1\MyLibrary.dll
+C:\Ostruks\Singleton\FibonacciConsole\bin\Debug\netcoreapp2.1\MyLibrary.pdb
+C:\Ostruks\Singleton\FibonacciConsole\obj\Debug\netcoreapp2.1\FibonacciConsole.csprojAssemblyReference.cache
+C:\Ostruks\Singleton\FibonacciConsole\obj\Debug\netcoreapp2.1\FibonacciConsole.csproj.CoreCompileInputs.cache
+C:\Ostruks\Singleton\FibonacciConsole\obj\Debug\netcoreapp2.1\FibonacciConsole.AssemblyInfoInputs.cache
+C:\Ostruks\Singleton\FibonacciConsole\obj\Debug\netcoreapp2.1\FibonacciConsole.AssemblyInfo.cs
+C:\Ostruks\Singleton\FibonacciConsole\obj\Debug\netcoreapp2.1\FibonacciConsole.csproj.CopyComplete
+C:\Ostruks\Singleton\FibonacciConsole\obj\Debug\netcoreapp2.1\FibonacciConsole.dll
+C:\Ostruks\Singleton\FibonacciConsole\obj\Debug\netcoreapp2.1\FibonacciConsole.pdb
